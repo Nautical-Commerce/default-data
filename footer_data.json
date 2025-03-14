@@ -1,0 +1,64 @@
+{
+    "root": {
+        "props": {
+            "gap": "md",
+            "width": 1280,
+            "isFullWidth": true
+        }
+    },
+    "zones": {},
+    "content": [
+        {
+            "type": "SimpleFooter",
+            "props": {
+                "id": "SimpleFooter-b43cb64f-6212-4e17-8950-49244b4dfeb0",
+                "bgColor": "600",
+                "socials": [
+                    {
+                        "href": "https://www.facebook.com/",
+                        "type": "Facebook"
+                    },
+                    {
+                        "href": "https://www.instagram.com/",
+                        "type": "Instagram"
+                    },
+                    {"href": "https://x.com", "type": "X.com"},
+                    {
+                        "href": "https://www.youtube.com/",
+                        "type": "YouTube"
+                    },
+                    {
+                        "href": "https://www.pinterest.com/",
+                        "type": "Pinterest"
+                    },
+                    {
+                        "href": "https://www.tiktok.com/",
+                        "type": "Tiktok"
+                    },
+                    {
+                        "href": "https://www.linkedin.com/",
+                        "type": "Linkedin"
+                    }
+                ],
+                "copyright": "© Copyright 2025 {company name}. All Rights Reserved.",
+                "textColor": "custom",
+                "bgCustomColor": "#000000",
+                "textCustomColor": "#ffffff",
+                "navMenuSelection": {
+                    "name": "Example footer",
+                    "items": [
+                        {"url": "#", "name": "About Us"},
+                        {"url": "#", "name": "Blog"},
+                        {
+                            "url": "#",
+                            "name": "Terms of Service"
+                        },
+                        {"url": "#", "name": "Privacy Policy"},
+                        {"url": "#", "name": "Shipping Policy"},
+                        {"url": "#", "name": "Refund Policy"}
+                    ]
+                }
+            }
+        }
+    ]
+}
