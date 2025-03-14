@@ -1,0 +1,257 @@
+{
+    "root": {
+        "props": {
+            "gap": "lg",
+            "width": 1280,
+            "isFullWidth": true
+        }
+    },
+    "zones": {
+        "MultiColumnLayout-0abec8cd-4ec3-4161-bcb6-96fb12bb399d:columns-0-content": [
+            {
+                "type": "Accordion",
+                "props": {
+                    "id": "Accordion-cd7663ca-af44-4521-be68-9c6effdb7d90",
+                    "rows": [
+                        {
+                            "title": "Section 1 - Text is visible when the section is collapsed."
+                        },
+                        {
+                            "title": "Section 2 - Text is visible when the section is collapsed."
+                        }
+                    ],
+                    "color": "none",
+                    "title": "FAQ",
+                    "showTitle": true,
+                    "titleLevel": "3",
+                    "customColor": "#F1F9FE",
+                    "allowMultiple": "single",
+                    "titleTextAlign": "center"
+                }
+            }
+        ],
+        "MultiColumnLayout-2f6fdfb4-3e15-4192-b716-509d48d210f4:columns-0-content": [
+            {
+                "type": "Image",
+                "props": {
+                    "id": "Image-8997a8fc-0baa-4138-af72-7783b21a5323",
+                    "alt": "placeholder",
+                    "size": "full",
+                    "aspect": "auto",
+                    "rounded": false,
+                    "urlLink": "",
+                    "imageUrl": "/images/placeholder-image-2.jpg",
+                    "linkType": "nautical",
+                    "alignment": "center",
+                    "nauticalLink": null,
+                    "nauticalImage": null,
+                    "imageSourceType": "external",
+                    "openLinkInNewTab": true
+                },
+                "readOnly": {"alt": false, "imageUrl": false}
+            },
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-30c6a50d-92a7-4fa5-8c82-a4f2bfab9246",
+                    "text": "<h3 style='text-align: center;'>Benefit #1</h3><div style='text-align: center;'>Highlight benefit #1 for selling on your marketplace.\n</div><div style='text-align: center;'><br></div>"
+                }
+            }
+        ],
+        "MultiColumnLayout-2f6fdfb4-3e15-4192-b716-509d48d210f4:columns-1-content": [
+            {
+                "type": "Image",
+                "props": {
+                    "id": "Image-1e6aa45f-c7b7-46ec-85be-9eba87b43fb8",
+                    "alt": "placeholder",
+                    "size": "full",
+                    "aspect": "auto",
+                    "rounded": false,
+                    "urlLink": "",
+                    "imageUrl": "/images/placeholder-image-2.jpg",
+                    "linkType": "nautical",
+                    "alignment": "center",
+                    "nauticalLink": null,
+                    "nauticalImage": null,
+                    "imageSourceType": "external",
+                    "openLinkInNewTab": true
+                },
+                "readOnly": {"alt": false, "imageUrl": false}
+            },
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-35febf96-765e-43ba-8c7b-706c7d6c01b3",
+                    "text": "<h3 style='text-align: center;'><span style='color: var(--un-prose-body); background-color: rgb(255 255 255/var(--un-bg-opacity)); font-family: var(--puck-font-family);'>Benefit #2</span></h3><div style='text-align: center;'>Highlight benefit #2 for selling on your marketplace.</div><div style='text-align: center;'><br></div>"
+                }
+            }
+        ],
+        "MultiColumnLayout-2f6fdfb4-3e15-4192-b716-509d48d210f4:columns-2-content": [
+            {
+                "type": "Image",
+                "props": {
+                    "id": "Image-53a7cfd8-e53a-4acb-b3b6-cd6f5e21f270",
+                    "alt": "placeholder",
+                    "size": "full",
+                    "aspect": "auto",
+                    "rounded": false,
+                    "urlLink": "",
+                    "imageUrl": "/images/placeholder-image-2.jpg",
+                    "linkType": "nautical",
+                    "alignment": "center",
+                    "nauticalLink": null,
+                    "nauticalImage": null,
+                    "imageSourceType": "external",
+                    "openLinkInNewTab": true
+                },
+                "readOnly": {"alt": false, "imageUrl": false}
+            },
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-6a1b69cb-74ff-4238-ae2a-03d6e15d4e6a",
+                    "text": "<h3 style='text-align: center;'>Benefit #3</h3><div style='text-align: center;'>Highlight benefit #3 for selling on your marketplace.</div><div style='text-align: center;'><br></div>"
+                }
+            }
+        ],
+        "MultiColumnLayout-9e0f8333-7de2-4cb5-aae9-4acc00ac8469:columns-0-content": [
+            {
+                "type": "Testimonials",
+                "props": {
+                    "id": "Testimonials-74fc69a8-d554-4107-803b-8516f6f2de52",
+                    "title": "See what our sellers have to say!",
+                    "variant": "gray",
+                    "showTitle": true,
+                    "dropShadow": true,
+                    "titleLevel": "3",
+                    "testimonials": [
+                        {
+                            "name": {
+                                "subName": "Additional information",
+                                "mainName": "Person's name"
+                            },
+                            "quote": "Input customer's testimonial here",
+                            "imageUrl": "/images/placeholder-avatar.png"
+                        },
+                        {
+                            "name": {
+                                "subName": "Additional information",
+                                "mainName": "Company name"
+                            },
+                            "quote": "Input customer's testimonial here",
+                            "imageUrl": "/images/placeholder-logo.png"
+                        }
+                    ],
+                    "titleTextAlign": "center"
+                }
+            }
+        ],
+        "MultiColumnLayout-f2416583-a9da-427b-a99a-eab93e595727:columns-0-content": [
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-98473188-784d-4a25-afbf-03f45507aab1",
+                    "text": "<h1 style='text-align: center;'>Marketplace Benefits</h1><div style='text-align: center;'>Customize the text here to highlight key message you want to communication to potential sellers who want to join your marketplace.\n\n</div><div style='text-align: center;'><br></div>"
+                }
+            },
+            {
+                "type": "MultiColumnLayout",
+                "props": {
+                    "id": "MultiColumnLayout-2f6fdfb4-3e15-4192-b716-509d48d210f4",
+                    "color": "none",
+                    "width": 800,
+                    "columnCount": "3",
+                    "customColor": "#ffffff",
+                    "isFullWidth": false,
+                    "verticalAlignment": "start"
+                }
+            }
+        ],
+        "Accordion-cd7663ca-af44-4521-be68-9c6effdb7d90:content-Section 1 - Text is visible when the section is collapsed.": [
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-87eb4e97-7ecf-4da7-b1fc-7436e9245eba",
+                    "text": "Answer to the first FAQ"
+                }
+            }
+        ],
+        "Accordion-cd7663ca-af44-4521-be68-9c6effdb7d90:content-Section 2 - Text is visible when the section is collapsed.": [
+            {
+                "type": "RichText",
+                "props": {
+                    "id": "RichText-4b6a3932-df27-48ad-9b96-7812ba496fe6",
+                    "text": "Answer to the second FAQ"
+                }
+            }
+        ]
+    },
+    "content": [
+        {
+            "type": "HeroSection",
+            "props": {
+                "id": "HeroSection-ca58adbd-6ced-4ebf-bec9-abae29a57ca0",
+                "alt": "placeholder",
+                "align": "left",
+                "color": "custom",
+                "title": "Sell on My Marketplace",
+                "buttons": [
+                    {
+                        "url": "/new-seller/register",
+                        "text": "Apply now",
+                        "variant": "primary"
+                    }
+                ],
+                "imageFit": "cover",
+                "imageUrl": "/images/placeholder-image-1.png",
+                "showTitle": true,
+                "imageWidth": "1/2",
+                "layoutType": "image-right",
+                "roundImage": false,
+                "titleLevel": "1",
+                "customColor": "#ffffff",
+                "description": "Let your prospective sellers know why they should join your marketplace. Aim for a concise, attention-grabbing message. Use the rest of the page to share a few compelling reasons why they should sell with you.",
+                "imageHeight": "full",
+                "nauticalImage": null,
+                "imageSourceType": "external"
+            },
+            "readOnly": {"alt": false, "imageUrl": false}
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-f2416583-a9da-427b-a99a-eab93e595727",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": false,
+                "verticalAlignment": "start"
+            }
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-9e0f8333-7de2-4cb5-aae9-4acc00ac8469",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": true,
+                "verticalAlignment": "start"
+            }
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-0abec8cd-4ec3-4161-bcb6-96fb12bb399d",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": false,
+                "verticalAlignment": "start"
+            }
+        }
+    ]
+}
