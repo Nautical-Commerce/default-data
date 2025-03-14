@@ -1,0 +1,267 @@
+{
+    "root": {
+        "props": {
+            "gap": "md",
+            "width": 1280,
+            "isFullWidth": true
+        }
+    },
+    "zones": {
+        "MultiColumnLayout-0a356512-d54a-4800-babd-e6d7db891e6a:columns-0-content": [
+            {
+                "type": "ProductCategoryList",
+                "props": {
+                    "id": "ProductCategoryList-a71e0820-aff3-4dc0-b479-d17e911b7784",
+                    "title": "Featured Categories",
+                    "cardStyle": "square",
+                    "showTitle": true,
+                    "titleLevel": "3",
+                    "categoryList": [{}, {}, {}, {}],
+                    "titleTextAlign": "left",
+                    "maxNumElementsPerRow": "4",
+                    "showCategoryDescription": true
+                }
+            }
+        ],
+        "MultiColumnLayout-6c019507-7238-42d5-b4b9-518a75217b51:columns-0-content": [
+            {
+                "type": "Heading",
+                "props": {
+                    "id": "Heading-acd26609-6d7b-4904-bf9e-06d5f8ed2dd2",
+                    "level": "3",
+                    "title": "Shop by seller",
+                    "textAlign": "left"
+                }
+            },
+            {
+                "type": "MultiColumnLayout",
+                "props": {
+                    "id": "MultiColumnLayout-d08a4a08-7285-42b9-b545-ad8d2c7d9f4f",
+                    "color": "none",
+                    "width": 1280,
+                    "columnCount": "4",
+                    "customColor": "#ffffff",
+                    "isFullWidth": true,
+                    "verticalAlignment": "start"
+                }
+            }
+        ],
+        "MultiColumnLayout-848d929a-6566-43c8-abc0-9f962fbad9c8:columns-0-content": [
+            {
+                "type": "Heading",
+                "props": {
+                    "id": "Heading-287959b1-34c5-4f1e-b507-bf834c822887",
+                    "level": "3",
+                    "title": "Shop by collection",
+                    "textAlign": "left"
+                }
+            },
+            {
+                "type": "MultiColumnLayout",
+                "props": {
+                    "id": "MultiColumnLayout-8a69a944-77eb-4d2f-bcf1-d4f887a53dcd",
+                    "color": "none",
+                    "width": 1280,
+                    "columnCount": "4",
+                    "customColor": "#ffffff",
+                    "isFullWidth": true,
+                    "verticalAlignment": "start"
+                }
+            }
+        ],
+        "MultiColumnLayout-8a69a944-77eb-4d2f-bcf1-d4f887a53dcd:columns-0-content": [
+            {
+                "type": "Collection",
+                "props": {
+                    "id": "Collection-a4341a73-0277-424d-b98c-76d2c1b10d57",
+                    "collection": null
+                }
+            }
+        ],
+        "MultiColumnLayout-8a69a944-77eb-4d2f-bcf1-d4f887a53dcd:columns-1-content": [
+            {
+                "type": "Collection",
+                "props": {
+                    "id": "Collection-8cb1672b-8d7b-44a2-92a8-08091c39af79",
+                    "collection": null
+                }
+            }
+        ],
+        "MultiColumnLayout-8a69a944-77eb-4d2f-bcf1-d4f887a53dcd:columns-2-content": [
+            {
+                "type": "Collection",
+                "props": {
+                    "id": "Collection-d9da52b1-cafc-4cff-b56a-219913ebe4e5",
+                    "collection": null
+                }
+            }
+        ],
+        "MultiColumnLayout-8a69a944-77eb-4d2f-bcf1-d4f887a53dcd:columns-3-content": [
+            {
+                "type": "Collection",
+                "props": {
+                    "id": "Collection-43c7e54c-6974-487b-ad40-f2cae3ee5b26",
+                    "collection": null
+                }
+            }
+        ],
+        "MultiColumnLayout-d08a4a08-7285-42b9-b545-ad8d2c7d9f4f:columns-0-content": [
+            {
+                "type": "Seller",
+                "props": {
+                    "id": "Seller-25253d17-039c-4360-85fe-ee02a70db482",
+                    "seller": null,
+                    "showLogo": true,
+                    "showName": true,
+                    "placement": "column",
+                    "showBorder": true,
+                    "showLogoBorder": true,
+                    "showDescription": true
+                }
+            }
+        ],
+        "MultiColumnLayout-d08a4a08-7285-42b9-b545-ad8d2c7d9f4f:columns-1-content": [
+            {
+                "type": "Seller",
+                "props": {
+                    "id": "Seller-725ce722-3525-448b-a016-bdddb52b20ea",
+                    "seller": null,
+                    "showLogo": true,
+                    "showName": true,
+                    "placement": "column",
+                    "showBorder": true,
+                    "showLogoBorder": true,
+                    "showDescription": true
+                }
+            }
+        ],
+        "MultiColumnLayout-d08a4a08-7285-42b9-b545-ad8d2c7d9f4f:columns-2-content": [
+            {
+                "type": "Seller",
+                "props": {
+                    "id": "Seller-5c4c30ee-c750-44ee-a00f-3908fbdc6c56",
+                    "seller": null,
+                    "showLogo": true,
+                    "showName": true,
+                    "placement": "column",
+                    "showBorder": true,
+                    "showLogoBorder": true,
+                    "showDescription": true
+                }
+            }
+        ],
+        "MultiColumnLayout-d08a4a08-7285-42b9-b545-ad8d2c7d9f4f:columns-3-content": [
+            {
+                "type": "Seller",
+                "props": {
+                    "id": "Seller-85c4f5bc-4661-4c06-8738-2dc7cba6fa8e",
+                    "seller": null,
+                    "showLogo": true,
+                    "showName": true,
+                    "placement": "column",
+                    "showBorder": true,
+                    "showLogoBorder": true,
+                    "showDescription": true
+                }
+            }
+        ]
+    },
+    "content": [
+        {
+            "type": "HeroSection",
+            "props": {
+                "id": "HeroSection-3280ff7a-204f-4b77-946b-8f0d12ca20a9",
+                "alt": "placeholder",
+                "align": "left",
+                "color": "none",
+                "title": "Enter an attention-grabbing headline",
+                "buttons": [
+                    {
+                        "url": "/products",
+                        "text": "Shop now",
+                        "variant": "primary"
+                    }
+                ],
+                "imageFit": "cover",
+                "imageUrl": "/images/placeholder-image-1.png",
+                "showTitle": true,
+                "imageWidth": "1/2",
+                "layoutType": "image-right",
+                "roundImage": false,
+                "titleLevel": "1",
+                "customColor": "#ffffff",
+                "description": "Enter a short sub-headline that provides additional context or reinforces the main message.",
+                "imageHeight": "full",
+                "nauticalImage": null,
+                "imageSourceType": "external"
+            },
+            "readOnly": {"alt": false, "imageUrl": false}
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-0a356512-d54a-4800-babd-e6d7db891e6a",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": false,
+                "verticalAlignment": "start"
+            }
+        },
+        {
+            "type": "HeroSection",
+            "props": {
+                "id": "HeroSection-c29c2845-d478-43f8-8737-0a61eb679353",
+                "alt": "placeholder",
+                "align": "center",
+                "color": "600",
+                "title": "Enter an attention-grabbing headline",
+                "buttons": [
+                    {
+                        "url": "#",
+                        "text": "Click me",
+                        "variant": "outline"
+                    }
+                ],
+                "imageFit": "cover",
+                "imageUrl": "/images/placeholder-image-1.png",
+                "showTitle": false,
+                "imageWidth": "5/12",
+                "layoutType": "no-image",
+                "roundImage": false,
+                "titleLevel": "1",
+                "customColor": "#000000",
+                "description": "<h1 style='text-align: center;'><span style='color: rgb(255, 255, 255);'>Banner</span></h1><div style='text-align: center;'><span style='background-color: rgb(255 255 255/var(--un-bg-opacity)); font-family: var(--puck-font-family); color: rgb(255, 255, 255);'>Enter a short sub-headline that provides additional context or reinforces the main message.</span></div>",
+                "imageHeight": "full",
+                "nauticalImage": null,
+                "imageSourceType": "external"
+            },
+            "readOnly": {"alt": false, "imageUrl": false}
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-848d929a-6566-43c8-abc0-9f962fbad9c8",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": false,
+                "verticalAlignment": "start"
+            }
+        },
+        {
+            "type": "MultiColumnLayout",
+            "props": {
+                "id": "MultiColumnLayout-6c019507-7238-42d5-b4b9-518a75217b51",
+                "color": "none",
+                "width": 1280,
+                "columnCount": "1",
+                "customColor": "#ffffff",
+                "isFullWidth": false,
+                "verticalAlignment": "start"
+            }
+        }
+    ]
+}
