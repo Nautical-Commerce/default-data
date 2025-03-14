@@ -1,0 +1,58 @@
+[
+    {
+        "publication_date": null,
+        "is_published": true,
+        "created_at": "2025-02-19 19:36:15.126055 +00:00",
+        "updated_at": "2025-02-19 19:36:15.126139 +00:00",
+        "deleted_at": null,
+        "deletion_batch_uuid": null,
+        "slug": "sell-on-mymarketplace",
+        "is_page": true,
+        "lock_expiry": null,
+        "deleted_by_app_id": null,
+        "deleted_by_user_id": null,
+        "locked_by_id": null
+    },
+    {
+        "publication_date": null,
+        "is_published": true,
+        "created_at": "2025-02-13 20:38:15.687927 +00:00",
+        "updated_at": "2025-02-13 20:38:15.687950 +00:00",
+        "deleted_at": null,
+        "deletion_batch_uuid": null,
+        "slug": "home",
+        "is_page": false,
+        "lock_expiry": null,
+        "deleted_by_app_id": null,
+        "deleted_by_user_id": null,
+        "locked_by_id": null
+    },
+    {
+        "publication_date": null,
+        "is_published": true,
+        "created_at": "2025-02-13 20:38:15.708736 +00:00",
+        "updated_at": "2025-02-13 20:38:15.708765 +00:00",
+        "deleted_at": null,
+        "deletion_batch_uuid": null,
+        "slug": "navigation-bar",
+        "is_page": false,
+        "lock_expiry": null,
+        "deleted_by_app_id": null,
+        "deleted_by_user_id": null,
+        "locked_by_id": null
+    },
+    {
+        "publication_date": null,
+        "is_published": true,
+        "created_at": "2025-02-13 20:38:15.665729 +00:00",
+        "updated_at": "2025-02-13 20:38:15.665754 +00:00",
+        "deleted_at": null,
+        "deletion_batch_uuid": null,
+        "slug": "footer",
+        "is_page": false,
+        "lock_expiry": null,
+        "deleted_by_app_id": null,
+        "deleted_by_user_id": null,
+        "locked_by_id": null
+    }
+]
